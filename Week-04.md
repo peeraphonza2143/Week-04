@@ -65,7 +65,7 @@ namespace Lab01
 
 
 
-![](image/1.PNG)
+![](61030059imager/1.PNG)
 
 
 
@@ -88,7 +88,7 @@ namespace Lab01
 ```
 
 ➢ รันโปรแกรมและบันทึกผล
-![](image/2.PNG)
+![](61030059imager/2.PNG)
 
 
  
@@ -130,7 +130,7 @@ namespace Lab01
 
  
 
-![](images/Lab03.PNG)
+![](61030059imager/3.PNG)
 
 
 
@@ -155,7 +155,7 @@ namespace Lab01
 
  
 
-![](images/Lab04.PNG)
+![](61030059imager/4.PNG)
 
 
 
@@ -196,7 +196,7 @@ namespace Lab01
 ```
 
 ➢ รันโปรแกรมและบันทึกผล
-
+![](61030059imager/5.PNG)
  
 👉 แก้โปรแกรมตามรูปด้านล่างนี้
 
@@ -216,7 +216,7 @@ namespace Lab01
 
 ➢ รันโปรแกรมและบันทึกผล
 
- 
+ ![](61030059imager/6.PNG)
 
 เช่น Console.WriteLine({0} {1} {2} ,1,2,3)
 
@@ -251,7 +251,7 @@ namespace Lab01
 
  
 
-![](images/Lab07.PNG)
+![](61030059imager/7.PNG)
 
 
 
@@ -287,7 +287,7 @@ namespace Lab01
 
  
 
-![](images/Lab08.PNG)
+![](61030059imager8.PNG)
 
 
 
@@ -329,7 +329,7 @@ namespace Lab01
 
  
 
-![](images/Lab09.PNG)
+![](61030059imager/9.PNG)
 
 
 
@@ -362,7 +362,7 @@ namespace Lab01
 
  
 
-![](images/Lab10.PNG)
+![](imager/10.PNG)
 
 
 
@@ -395,7 +395,7 @@ namespace Lab01
 
 
 
-![](images/Lab11.PNG)
+![](61030059imager/11.PNG)
 
 
 
@@ -408,19 +408,19 @@ namespace Lab01
 ```
 ```Text
    Hello there. I said Hello! Hello???
-``` 
+``` ![](61030059imager/12.PNG)
 ``` csharp
 2. Console.WriteLine("{2:d} {0:d} {1:d}", 1, 2, 3);
 ```
 ```Text
    3 2 1
-```
+```![](61030059imager/13.PNG)
 ``` csharp
 3. Console.WriteLine("Hello " + "World");
 ```
 ```Text
    Hello World
-```
+```![](61030059imager/14.PNG)
 ``` csharp
 4. Console.WriteLine("Here comes a slash \\");
 ```
