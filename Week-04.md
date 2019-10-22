@@ -838,18 +838,21 @@ Console.WriteLine("Maximum Value :" + (int) char.MaxValue);
 ![](61030059/imager/2-float.PNG)
 
 ---ผลการทดลอง doudle
-![](61030059/imager/แบบฝึด2-doudle.PNG)
+![](61030059/imager/2-doudle.PNG)
 ---ผลการทดลอง decimai
-![](61030059/imager/แบบฝึด2-decimal.PNG)
+![](61030059/imager/2-decimal.PNG)
 ---ผลการทดลอง long
-![](61030059/imager/แบบฝึด2-long.PNG)
+![](61030059/imager/2-long.PNG)
 ---ผลการทดลอง ulong
-![](61030059/imager/แบบฝึด2-ulong.PNG)
+![](61030059/imager/2-ulong.PNG)
 ---ผลการทดลอง char
-![](61030059/imager/แบบฝึด2-char.PNG)
+![](61030059/imager/2-char.PNG)
 ---ผลการทดลอง bool
 
-![](61030059/imager/แบบฝึด2-bool.PNG)
+![](61030059/imager/2-bool.PNG)
+---ผลการทดลอง sbyte
+
+![](61030059/imager/2-sbyte.PNG)
 
 
 
