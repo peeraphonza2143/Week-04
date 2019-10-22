@@ -485,30 +485,45 @@ namespace Lab01
 ```Text
    12.3457
 ```
+➢ รันโปรแกรมและบันทึกผล
+![](61030059/imager/20.PNG)
+
 ``` csharp
 10. Console.WriteLine("{0,-10:C}", 12.3456789);
 ```
 ```Text
    $12.35
 ```
+➢ รันโปรแกรมและบันทึกผล
+![](61030059/imager/21.PNG)
+
 ``` csharp
 11. Console.WriteLine("{0,-10:E3}", 12.3456789);
 ```
 ```Text
    1.235E+001
 ```
+➢ รันโปรแกรมและบันทึกผล
+![](61030059/imager/22.PNG)
+
 ``` csharp
 12. Console.WriteLine("{0,-10:x}", 65535);  // (x = lower case)
 ```
 ```Text
    ffff
 ```
+➢ รันโปรแกรมและบันทึกผล
+![](61030059/imager/23.PNG)
+
 ``` csharp
 13. Console.WriteLine("{0,-10:X}", 65535);  // (X = upper case)
 ```
 ```Text
    FFFF
 ```
+➢ รันโปรแกรมและบันทึกผล
+![](61030059/imager/24.PNG)
+
 ``` csharp
 14. int i;
     Console.WriteLine("Value\tSquared\tCubed");
@@ -528,6 +543,9 @@ namespace Lab01
        9       81      729
 
 ```
+➢ รันโปรแกรมและบันทึกผล
+![](61030059/imager/25.PNG)
+
 ``` csharp
 15. Console.WriteLine("{0:#.###}.", 1234.56789);
 ```
@@ -535,6 +553,9 @@ namespace Lab01
 ```Text
    1234.568.
 ``` 
+➢ รันโปรแกรมและบันทึกผล
+![](61030059/imager/26.PNG)
+
 ## การใช้งานคำสั่ง Console.Read() และ Console.ReadLine()
 
 ### ความรู้เบื้องต้น
@@ -567,7 +588,7 @@ namespace Lab01
  
 
 
-![](images/Lab12.PNG)
+![](61030059/imager/27.PNG)
 
 
 
@@ -578,6 +599,7 @@ namespace Lab01
 
 จะแสดงตัวอักษร ตัวแรกเท่านั้น เนื่องจากตัวแปร เป็นชนิด char 
 
+![](61030059/imager/28.PNG)
 
 ```
 
@@ -616,7 +638,7 @@ namespace Lab01
  
 
 
-![](images/Lab13.PNG)
+![](/61030059/imager/29.PNG)
 
 
  
@@ -648,7 +670,7 @@ namespace Lab01
 
  
 
-![](images/Lab14.PNG)
+![](/61030059/imager/30.PNG)
 
 
 
@@ -699,7 +721,7 @@ namespace Lab01
 
 
 
-![](images/Lab15.PNG)
+![](61030059/imager/31.PNG)
 
 
 
@@ -738,6 +760,8 @@ namespace Lab01
 | `21November`| | |
 | `ladkrabang`| | |
 | `Student ID`| | |
+---ผลการทดลอง
+![](61030059/imager/แบบฝึด1.PNG)
 
 ## ชนิดข้อมูลภายในภาษา C\#
 
@@ -784,6 +808,34 @@ Maximum Value :2147483647
 Console.WriteLine("Minimum Value :" + (int) char.MinValue);
 Console.WriteLine("Maximum Value :" + (int) char.MaxValue);
 ```
+---ผลการทดลอง`byte`
+![](61030059/imager/แบบฝึด2-byte.PNG)
+---ผลการทดลอง sbyte
+![](61030059/imager/แบบฝึด2-sbyte.PNG)
+---ผลการทดลอง short
+![](61030059/imager/แบบฝึด2-short.PNG)
+---ผลการทดลอง ushort
+![](61030059/imager/แบบฝึด2-ushort.PNG)
+---ผลการทดลอง uint
+![](61030059/imager/แบบฝึด2-uint.PNG)
+---ผลการทดลอง float
+![](61030059/imager/แบบฝึด2-float.PNG)
+---ผลการทดลอง doudle
+![](61030059/imager/แบบฝึด2-doudle.PNG)
+---ผลการทดลอง decimai
+![](61030059/imager/แบบฝึด2-decimal.PNG)
+---ผลการทดลอง long
+![](61030059/imager/แบบฝึด2-long.PNG)
+---ผลการทดลอง ulong
+![](61030059/imager/แบบฝึด2-ulong.PNG)
+---ผลการทดลอง char
+![](61030059/imager/แบบฝึด2-char.PNG)
+---ผลการทดลอง bool
+
+![](61030059/imager/แบบฝึด2-bool.PNG)
+
+
+
 
 ## การใช้งานข้อมูลชนิดต่างๆ
 
