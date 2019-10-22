@@ -421,43 +421,64 @@ namespace Lab01
 ```
 ```Text
    3 2 1
-```![](61030059/imager/13.PNG)
+```
+➢ รันโปรแกรมและบันทึกผล
+![](61030059/imager/13.PNG)
+
 ``` csharp
 3. Console.WriteLine("Hello " + "World");
 ```
 ```Text
    Hello World
-```![](61030059/imager/14.PNG)
+```
+➢ รันโปรแกรมและบันทึกผล
+![](61030059/imager/14.PNG)
+
 ``` csharp
 4. Console.WriteLine("Here comes a slash \\");
 ```
 ```Text
    Here comes a slash \\
 ```
+➢ รันโปรแกรมและบันทึกผล
+![](61030059/imager/15.PNG)
+
 ``` csharp
 5. Console.WriteLine("|{0, 10}|", 999);
 ```
 ```Text
    |        999|
 ```
+➢ รันโปรแกรมและบันทึกผล
+![](61030059/imager/16PNG)
+
 ``` csharp
 6. Console.WriteLine("|{0,-10}|", 000);
 ```
 ```Text
    |000       |
-```
+``
+➢ รันโปรแกรมและบันทึกผล
+![](61030059/imager/17.PNG)`
+
 ``` csharp
 7. Console.WriteLine("The value: {0}.", 500);
 ```
 ```Text
    The value: 500
 ```
+➢ รันโปรแกรมและบันทึกผล
+![](61030059/imager/18.PNG)
+
 ``` csharp
 8. Console.WriteLine("The value: {0:C}.", 500);
 ```
 ```Text
    The value  : $500
 ```
+➢ รันโปรแกรมและบันทึกผล
+![](61030059/imager/19.PNG)
+
 ``` csharp
 9. Console.WriteLine("{0,-10:F4}", 12.3456789);
 ```
