@@ -818,7 +818,9 @@ Console.WriteLine("Minimum Value :" + (int) char.MinValue);
 Console.WriteLine("Maximum Value :" + (int) char.MaxValue);
 ```
 ---ผลการทดลอง`byte`
+
 ![](61030059/imager/2-byte.PNG)
+
 ---ผลการทดลอง sbyte
 ![](61030059/imager/แบบฝึด2-sbyte.PNG)
 ---ผลการทดลอง short
