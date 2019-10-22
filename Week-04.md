@@ -821,9 +821,7 @@ Console.WriteLine("Maximum Value :" + (int) char.MaxValue);
 
 ![](61030059/imager/2-byte.PNG)
 
----ผลการทดลอง sbyte
 
-![](61030059/imager/2-sbyte.PNG)
 
 ---ผลการทดลอง short
 ![](61030059/imager/2-short.PNG)
@@ -837,7 +835,8 @@ Console.WriteLine("Maximum Value :" + (int) char.MaxValue);
 ![](61030059/imager/2-uint.PNG)
 
 ---ผลการทดลอง float
-![](61030059/imager/แบบฝึด2-float.PNG)
+![](61030059/imager/2-float.PNG)
+
 ---ผลการทดลอง doudle
 ![](61030059/imager/แบบฝึด2-doudle.PNG)
 ---ผลการทดลอง decimai
