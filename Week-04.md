@@ -822,9 +822,11 @@ Console.WriteLine("Maximum Value :" + (int) char.MaxValue);
 ![](61030059/imager/2-byte.PNG)
 
 ---ผลการทดลอง sbyte
-![](61030059/imager/แบบฝึด2-sbyte.PNG)
+![](61030059/imager/2-sbyte.PNG)
+
 ---ผลการทดลอง short
-![](61030059/imager/แบบฝึด2-short.PNG)
+![](61030059/imager/2-short.PNG)
+
 ---ผลการทดลอง ushort
 ![](61030059/imager/แบบฝึด2-ushort.PNG)
 ---ผลการทดลอง uint
