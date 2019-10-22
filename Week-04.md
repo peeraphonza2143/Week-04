@@ -409,10 +409,12 @@ namespace Lab01
 ```Text
    Hello there. I said Hello! Hello???
 ``` 
+➢ รันโปรแกรมและบันทึกผล
+![](61030059/imager/12.PNG)
 
 ``` csharp
 
-![](61030059/imager/12.PNG)
+
 
 
 2. Console.WriteLine("{2:d} {0:d} {1:d}", 1, 2, 3);
