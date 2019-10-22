@@ -287,7 +287,7 @@ namespace Lab01
 
  
 
-![](61030059/imager8.PNG)
+![](61030059/imager/8.PNG)
 
 
 
