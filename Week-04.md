@@ -760,8 +760,9 @@ namespace Lab01
 | `21November`| | |
 | `ladkrabang`| | |
 | `Student ID`| | |
+
 ---ผลการทดลอง
-![](61030059/imager/แบบฝึด1.PNG)
+![](61030059/imager/แบบฝึด 1.PNG)
 
 ## ชนิดข้อมูลภายในภาษา C\#
 
