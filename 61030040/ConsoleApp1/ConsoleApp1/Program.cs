@@ -6,7 +6,7 @@ namespace Lab01
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("{2:d} {0:d} {1:d}", 2, 1, 3);
+            Console.WriteLine("Here comes a slash \\");
             Console.ReadKey();
         }
     }
