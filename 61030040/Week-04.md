@@ -65,7 +65,7 @@ namespace Lab01
 
 
 
-![](61030059/imager/1.PNG)
+![](INMAGE/P1.PNG)
 
 
 
