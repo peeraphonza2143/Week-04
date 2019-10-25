@@ -1,18 +1,22 @@
 ﻿using System;
-namespace Lab01
+public class MathTest
 {
-    class Program
+    static void Main(string[] args)
     {
-        static void Main(string[] args)
+        for (float i = 0; i < Math.PI * 2.0F; i += 0.3F)
         {
-
-
-            Console.WriteLine("Data type : int");
-            Console.WriteLine("Size :" + sizeof(int));
-            Console.WriteLine("Minimum Value :" + int.MinValue);
-            Console.WriteLine("Maximum Value :" + int.MaxValue);
-            Console.ReadLine();
-
+            Console.WriteLine("The sine of {0,10:F} = {1,-10:F6}" + spaces(Math.Sin(i)) + "*", i, Math.Sin(i));
+           
         }
+
+        Console.ReadKey();
+
     }
+    private static string spaces(double val)
+    {
+        string SpaceString = new String(' ', ((int)(val * 10.0)) + 10);
+        return SpaceString;
+       
+    }
+    
 }
