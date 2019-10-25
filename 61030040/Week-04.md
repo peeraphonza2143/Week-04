@@ -65,7 +65,7 @@ namespace Lab01
 
 
 
-![](INMAGE/P1.JPG)
+![](IMAGE/P1.JPG)
 
 
 
