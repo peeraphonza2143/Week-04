@@ -6,18 +6,13 @@ namespace Lab01
         static void Main(string[] args)
         {
 
-          
-                Console.Write("Name :");
-                string val1 = Convert.ToString(Console.ReadLine());
-                Console.Write("ID :");
-                string val2 = Convert.ToString(Console.ReadLine());
-                Console.Write("GPA :");
-                string val3 = Convert.ToString(Console.ReadLine());
-            Console.WriteLine("Name : {0}",val1);
-            Console.WriteLine("ID : {0}",val2);
-            Console.WriteLine("GPA : {0}",val3);
-            Console.ReadKey();
-           
+
+            Console.WriteLine("Data type : int");
+            Console.WriteLine("Size :" + sizeof(int));
+            Console.WriteLine("Minimum Value :" + int.MinValue);
+            Console.WriteLine("Maximum Value :" + int.MaxValue);
+            Console.ReadLine();
+
         }
     }
 }
