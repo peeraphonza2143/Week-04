@@ -6,8 +6,8 @@ namespace Lab01
     {
         static void Main(string[] args)
         {
-            int A = 000;
-            Console.WriteLine("The value: {0}", 500);
+
+            Console.WriteLine("The value: {0:$0}.",500);
 
             Console.ReadKey();
         }
