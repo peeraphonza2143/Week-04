@@ -1,17 +1,14 @@
-﻿
-using System;
+﻿using System;
 namespace Lab01
 {
     class Program
     {
         static void Main(string[] args)
         {
-            char ch;
-            Console.Write("Press a key followed by ENTER:");
-            ch = (char)Console.Read();  // get a char
-            Console.WriteLine("Your key is: " + ch);
-
-            Console.ReadKey();
+            string str;
+            Console.Write("Please enter value 1 : ");
+            int val1 = Convert.ToInt32(Console.ReadLine());
+            Console.WriteLine(val1);
         }
     }
 }
